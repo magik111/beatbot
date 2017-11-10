@@ -1,0 +1,19 @@
+{
+  "name": "Beat",
+  "version": "1.0.1",
+  "description": "magik",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PickledPotato",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "discord.js": "^11.2.1",
+    "moment": "^2.18.1",
+    "opusscript": "0.0.3",
+    "return-deep-diff": "^0.2.7",
+    "ytdl-core": "^0.14.2"
+  }
+}
